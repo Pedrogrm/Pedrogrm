@@ -15,8 +15,9 @@
 
   ## 💡 Um pouco sobre mim
 
-  🌍 Apaixonado por tecnologia, games e resolver problemas com código.  
-  💻 Transformando ideias em projetos reais (às vezes até funcionam 😅).  
+  🌍 
+  🏫 Cursando Desenvolvimento de Sistemas no Senai Jacob Lafer
+  💻 Transformando ideias em projetos reais
   ⚙️ Sempre aprendendo e buscando evoluir como dev.  
 
 </div>
