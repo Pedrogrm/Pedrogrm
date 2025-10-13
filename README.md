@@ -70,6 +70,6 @@
   <br><br>
 
   🐍 E claro, o clássico Snake pra deixar o perfil mais divertido 👇  
-  <img src="https://raw.githubusercontent.com/USERNAME/USERNAME/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Pedrogrm/Pedrogrm/output/snake.svg" alt="Snake animation" />
 
 </div>
