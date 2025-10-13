@@ -68,7 +68,6 @@
 
   <br><br>
 
-  🐍 E claro, o clássico Snake pra deixar o perfil mais divertido 👇  
   <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pedrogrm/Pedrogrm/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pedrogrm/Pedrogrm/output/github-contribution-grid-snake.svg">
