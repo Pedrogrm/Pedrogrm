@@ -1,8 +1,22 @@
 <div align="center">
 
-  <h1><strong>👾 Olá, visitante! Seja bem-vindo ao meu universo dev 🚀</strong></h1>
+  <h1><strong>👾 Olá, Seja bem-vindo ao meu Git 🚀</strong></h1>
 
   <br>
+
+                       ,'/ \`.
+                      |\/___\/|
+                      \'\   /`/
+                       `.\ /,'
+                          |
+                          |
+                         |=|
+                    /\  ,|=|.  /\
+                ,'`.  \/ |=| \/  ,'`.
+              ,'    `.|\ `-' /|,'    `.
+            ,'   .-._ \ `---' / _,-.   `.
+               ,'    `-`-._,-'-'    `.
+              '                       `
 
 
 </div>
@@ -15,9 +29,12 @@
 
   ## 💡 Um pouco sobre mim
 
-  🌍 
+  🌍 Buscando soluções e aprimoramentos para meus sistemas
+  <br>
   🏫 Cursando Desenvolvimento de Sistemas no Senai Jacob Lafer
+  <br>
   💻 Transformando ideias em projetos reais
+  <br>
   ⚙️ Sempre aprendendo e buscando evoluir como dev.  
 
 </div>
