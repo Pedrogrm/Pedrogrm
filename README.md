@@ -1,10 +1,11 @@
 <div align="center">
-  <h1><strong>👋 Bem-vindo ao meu perfil!</strong></h1>
-</div>
 
-<br>
+  <h1><strong>👾 Olá, visitante! Seja bem-vindo ao meu universo dev 🚀</strong></h1>
 
-<div align="center">
+  <br>
+
+  <img width="360" height="410" alt="Foto de perfil" src="https://github.com/user-attachments/assets/2a556dc9-4feb-40b8-b3fc-b50e158e8ca6" />
+  <img width="360" height="410" alt="Banner ou arte" src="https://github.com/user-attachments/assets/3c5d97fb-3d9c-41e7-b624-76b95a683e04" />
 
 </div>
 
@@ -14,25 +15,47 @@
 
 <div align="center">
 
-  ## 🧠 Minhas Competências
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="50" height="50" alt="C++"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="50" height="50" alt="HTML5"/>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="50" height="50" alt="CSS3"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="50" height="50" alt="PHP"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="50" height="50" alt="SQL"/>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="50" height="50" alt="MySQL"/> 
+  ## 💡 Um pouco sobre mim
+
+  🌍 Apaixonado por tecnologia, games e resolver problemas com código.  
+  💻 Transformando ideias em projetos reais (às vezes até funcionam 😅).  
+  ⚙️ Sempre aprendendo e buscando evoluir como dev.  
+
+</div>
+
+<br>
+<hr>
+<br>
+
+<div align="center">
+
+  ## 🧠 Tecnologias que domino (ou estou domando)
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="50" height="50" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="50" height="50" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="50" height="50" alt="PHP"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="50" height="50" alt="MySQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="50" height="50" alt="Bootstrap"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50" height="50" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="50" height="50" alt="C++"/>
+
+</div>
+
+<br>
+<hr>
+<br>
+
+<div align="center">
+
+  ## 🎮 Dá uma olhada nos meus projetos!
+
+  🔍 Aqui tem de tudo um pouco: sites, jogos, automações e ideias que saíram do papel.  
+  💬 Se curtir algo, deixa uma estrela ⭐ — ajuda demais!
 
   <br><br>
-  <hr>
-  <br>
 
-  🎮 Divirta-se com o Snake e dê uma olhada nos meus projetos!
-  
-  <br><br>
-  <img src="https://raw.githubusercontent.com/J-Paiare/J-Paiare/output/snake.svg" alt="Snake animation" />
+  🐍 E claro, o clássico Snake pra deixar o perfil mais divertido 👇  
+  <img src="https://raw.githubusercontent.com/USERNAME/USERNAME/output/snake.svg" alt="Snake animation" />
 
 </div>
