@@ -4,8 +4,6 @@
 
   <br>
 
-  <img width="360" height="410" alt="Foto de perfil" src="https://github.com/user-attachments/assets/2a556dc9-4feb-40b8-b3fc-b50e158e8ca6" />
-  <img width="360" height="410" alt="Banner ou arte" src="https://github.com/user-attachments/assets/3c5d97fb-3d9c-41e7-b624-76b95a683e04" />
 
 </div>
 
