@@ -37,12 +37,13 @@
 
 <div align="center">
 
-  ## 💡 Um pouco sobre mim
+  ## 💡 Sobre mim
 
   🌍 Buscando soluções e aprimoramentos para meus sistemas.  
   🏫 Estudante de **Desenvolvimento de Sistemas** no *SENAI Jacob Lafer*.  
-  💻 Transformando ideias em projetos reais (e funcionais 😄).  
-  ⚙️ Sempre aprendendo, testando e evoluindo como dev.  
+  💻 Transformando ideias em projetos reais.
+  ⚙️ Sempre aprendendo, testando e evoluindo como dev. 
+  👀 Buscando novas oportunidades de estagio, trainee ou emprego.
 
 </div>
 
