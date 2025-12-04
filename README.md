@@ -37,13 +37,16 @@
 
 <div align="center">
 
-  ## 💡 Sobre mim
+  ##  Sobre mim
 
   🌍 Buscando soluções e aprimoramentos para meus sistemas.  
   🏫 Estudante de **Desenvolvimento de Sistemas** no *SENAI Jacob Lafer*.  
   💻 Transformando ideias em projetos reais.
+  <br>
   ⚙️ Sempre aprendendo, testando e evoluindo como dev. 
+  <br>
   👀 Buscando novas oportunidades de estagio, trainee ou emprego.
+  🐊 Sou Dev Do Projeto Jeca Maracatu
 
 </div>
 
@@ -53,7 +56,7 @@
 
 <div align="center">
 
-  ## 🧠 Tecnologias com que tenho experiência
+  ## Tecnologias com que tenho experiência
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="50" height="50" alt="HTML5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="50" height="50" alt="CSS3"/>
@@ -71,9 +74,9 @@
 
 <div align="center">
 
-  ## 🔍 Dá uma olhada nos meus projetos!
+  ## Meus projetos!
 
-  Aqui tem de tudo um pouco — sites, jogos como o jeca maracatu, projetos feitos no senai.
+  Tenho experciencia com Aplicações Webs, Aplicativos moveis e Jogos Web
 
   <br><br>
 
