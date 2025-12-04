@@ -1,11 +1,11 @@
 <div align="center">
 
-  <h1><strong>👾 Olá! Seja bem-vindo ao meu Git 🚀</strong></h1>
+  <h1><strong> Olá! Seja bem-vindo ao meu Git </strong></h1>
 
   <br>
 
 <pre>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ,'/ \`.
+<!-- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ,'/ \`.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |\/___\/|
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; \'\   /`/
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `.\ /,'
@@ -17,7 +17,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  ,'    `.|\ `-' /|,'    `.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ,'   .-._ \ `---' / _,-.   `.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ,'    `-`-._,-'-'    `.
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; '                       `
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; '                       ` -->
 
 &nbsp;______        _            ___  ___           _ _       
 &nbsp;| ___ \      | |           |  \/  |          (_) |      
@@ -70,10 +70,9 @@
 
 <div align="center">
 
-  ## 🎮 Dá uma olhada nos meus projetos!
+  ## 🔍 Dá uma olhada nos meus projetos!
 
-  🔍 Aqui tem de tudo um pouco — sites, jogos, automações e ideias que saíram do papel.  
-  💬 Se curtir algo, deixa uma estrela ⭐ — ajuda demais e motiva a continuar criando!
+  Aqui tem de tudo um pouco — sites, jogos como o jeca maracatu, projetos feitos no senai.
 
   <br><br>
 
