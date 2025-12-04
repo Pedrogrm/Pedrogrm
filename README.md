@@ -46,6 +46,7 @@
   ⚙️ Sempre aprendendo, testando e evoluindo como dev. 
   <br>
   👀 Buscando novas oportunidades de estagio, trainee ou emprego.
+  <br>
   🐊 Sou Dev Do Projeto Jeca Maracatu
 
 </div>
