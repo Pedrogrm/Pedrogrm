@@ -47,7 +47,7 @@
   <br>
   👀 Buscando novas oportunidades de estagio, trainee ou emprego.
   <br>
-  🐊 Sou Dev Do Projeto Jeca Maracatu
+  🐊 Sou Dev do projeto Jeca Maracatu
 
 </div>
 
